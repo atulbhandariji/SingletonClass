@@ -1,0 +1,27 @@
+C:\kelltonTech\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\kelltonTech\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\kelltonTech\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\kelltonTech\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\kelltonTech\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\kelltonTech\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\kelltonTech\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\kelltonTech\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\kelltonTech\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\kelltonTech\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\kelltonTech\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\kelltonTech\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\kelltonTech\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+E:\Atul Folder\Interview_Preparation\Dot Net March+July 2020-20220926T050207Z-001\Dot Net March+July 2020\07 July\10 July 2020\Atul Singh Bhandari\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
